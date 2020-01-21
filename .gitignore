@@ -1,3 +1,6 @@
 .DS_Store
 .idea
 *.iml
+public/main.js
+*.map
+node_modules
