@@ -17,7 +17,7 @@ const {sayNiceThings, tellMeYouLoveMe} = require('./say-hello');
         sayHello();
     });
 
-    tellMeYouLoveMe()
+    tellMeYouLoveMe();
     sayNiceThings();
 
 }
