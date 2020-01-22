@@ -1,5 +1,5 @@
-// import {sayNiceThings} from "./say-hello.js";
-const {sayNiceThings, tellMeYouLoveMe} = require('./say-hello');
+import {sayNiceThings, tellMeYouLoveMe} from "./say-hello.js";
+// const {sayNiceThings, tellMeYouLoveMe} = require('./say-hello');
 
 {
     // const $ = import('jquery');
